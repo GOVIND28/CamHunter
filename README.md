@@ -31,6 +31,12 @@ Before you begin, ensure you have **Python 3** and `pip` installed.
     ```sh
     cd CamHunter
     ```
+    ```sh
+    chmod +x install.sh
+    ```
+    ```sh
+    chmod +x run.sh
+    ```    
 
 2.  **Run the Installation Script:**
     This script will install all the necessary dependencies. **It requires `sudo` permissions.**
